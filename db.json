@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+        "UserID": 1,
+        "UserName": "evgenii@mail.ru",
+        "BirthDate": "2021-03-11T17:19:28.367",
+        "RegisteredAt": "2021-03-11T17:41:35.573"
+    },
+    {
+        "UserID": 2,
+        "UserName": "evgenii@mail.ru",
+        "BirthDate": "2021-03-11T17:19:28.367",
+        "RegisteredAt": "2021-03-11T17:41:46.91"
+    }
+]
+}
